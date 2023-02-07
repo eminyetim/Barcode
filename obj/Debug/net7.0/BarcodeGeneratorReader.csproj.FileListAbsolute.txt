@@ -1,0 +1,15 @@
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\bin\Debug\net7.0\BarcodeGeneratorReader.exe
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\bin\Debug\net7.0\BarcodeGeneratorReader.deps.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\bin\Debug\net7.0\BarcodeGeneratorReader.runtimeconfig.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\bin\Debug\net7.0\BarcodeGeneratorReader.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\bin\Debug\net7.0\BarcodeGeneratorReader.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\BarcodeGeneratorReader.csproj.AssemblyReference.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\BarcodeGeneratorReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\BarcodeGeneratorReader.AssemblyInfoInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\BarcodeGeneratorReader.AssemblyInfo.cs
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\BarcodeGeneratorReader.csproj.CoreCompileInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\BarcodeGeneratorReader.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\refint\BarcodeGeneratorReader.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\BarcodeGeneratorReader.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\BarcodeGeneratorReader.genruntimeconfig.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\ref\BarcodeGeneratorReader.dll
