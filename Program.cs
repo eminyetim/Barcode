@@ -44,14 +44,14 @@ namespace BarcodeGeneratorReader
 
         // Barcode oku
 
-        // var reader = new BarcodeReader(new BarcodeReader(), new DecodingOptions { TryHarder = true });
+         var reader = new BarcodeReader(new BarcodeReader(), new DecodingOptions { TryHarder = true });
 
 
-        // reader.Options = new DecodingOptions { TryHarder = true };
+         reader.Options = new DecodingOptions { TryHarder = true };
 
-        // var barcodeBitmap = new Bitmap(path);
+         var barcodeBitmap = new Bitmap(path);
 
-        // var result2 = reader.Decode(new Bitmap(@"barcode.png"));
+         var result2 = reader.Decode(new Bitmap(@"barcode.png"));
 
         //// Sonucu göster
         //Console.WriteLine("Okunan veri: " + result2.Text);
