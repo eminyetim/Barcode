@@ -10,4 +10,5 @@ namespace BarcodeGeneratorReader
             System.Console.WriteLine("Barekod");
         }
     }
+    
 }
