@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "WePQEOoCsH0I9m1FK/4cqaonT29KgO/Uynfiz1EW03N1DDlEe71soZMZjrX1x2PJIwXq1VBkBJ/d6gOruEtPAQ==",
+  "dgSpecHash": "UTSffE/idxC9/BP0pdtNuo9PlpuNbMAgQUzii6oFat3xwuLtzB3PLAhvzg4vh1UlqlcSoDWUA6490wXTb0EwIw==",
   "success": true,
   "projectFilePath": "C:\\Users\\eminy\\OneDrive\\Masaüstü\\Patika.dev\\BarcodeGeneratorReader\\BarcodeGeneratorReader.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eminy\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\eminy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\eminy\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\eminy\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\eminy\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\eminy\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\eminy\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\eminy\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\eminy\\.nuget\\packages\\zxing.net\\0.16.8\\zxing.net.0.16.8.nupkg.sha512"
+  ],
   "logs": []
 }

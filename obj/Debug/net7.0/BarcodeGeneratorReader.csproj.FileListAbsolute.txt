@@ -13,3 +13,11 @@ C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\n
 C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\BarcodeGeneratorReader.pdb
 C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\BarcodeGeneratorReader.genruntimeconfig.cache
 C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\ref\BarcodeGeneratorReader.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\bin\Debug\net7.0\BarcodeStandard.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\bin\Debug\net7.0\QRCoder.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\bin\Debug\net7.0\zxing.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\BarcodeGeneratorReader\obj\Debug\net7.0\BarcodeGeneratorReader.csproj.CopyComplete
